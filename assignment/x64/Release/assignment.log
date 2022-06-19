@@ -1,0 +1,83 @@
+﻿  main.cpp
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(21,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(22,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(23,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(25,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(26,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(27,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(29,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(30,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(31,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(84,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(84,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(85,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(85,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(86,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(86,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(87,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(87,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(88,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(88,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(89,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(89,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(90,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(90,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(91,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(91,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(92,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(92,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(93,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(94,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(94,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(95,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(95,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(96,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(96,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(97,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(97,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(98,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(98,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(112,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(115,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(116,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(117,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(122,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(126,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(143,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(144,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(150,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(151,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(157,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(222,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(223,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(224,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(228,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(229,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(230,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(231,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(239,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(240,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(241,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(242,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(243,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(244,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(245,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(251,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(252,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(253,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(254,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(255,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(256,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(257,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(266,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(270,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(273,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(274,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\assignment\main.cpp(280,19): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating code
+  1 of 86 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  assignment.vcxproj -> C:\Users\Alaa1\OneDrive\المستندات\Assignment#1strawberry ,Alaa Mohmmed\strawberry\strawberry\x64\Release\assignment.exe
+          1 file(s) copied.
